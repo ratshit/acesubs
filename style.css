@@ -1,0 +1,26 @@
+body {
+    background-color: #181818;
+    color: #FFFFFF;
+    font-family:Verdana;
+}
+
+#centerContent {
+    margin: auto;
+    margin-top: 100px;
+    width: 600px;
+    /*padding-left: 10px;
+    border: 2px solid grey;
+    background-color: #383838;*/
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+h1 {
+    font-family:Geogia;
+    font-size: 3.5em;
+    /*position: absolute;*/
+    text-align: center;
+}
