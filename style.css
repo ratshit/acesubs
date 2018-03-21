@@ -8,9 +8,6 @@ body {
     margin: auto;
     margin-top: 100px;
     width: 600px;
-    /*padding-left: 10px;
-    border: 2px solid grey;
-    background-color: #383838;*/
 }
 
 a {
@@ -18,9 +15,24 @@ a {
     text-decoration: underline;
 }
 
+a.hover {
+	color: #383838;
+}
+
 h1 {
-    font-family:Geogia;
+    font-family: Geogia;
     font-size: 3.5em;
-    /*position: absolute;*/
     text-align: center;
+}
+
+th {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight:normal;
+}
+
+
+table {
+	width: 100%;
+	table-layout: fixed;
 }
